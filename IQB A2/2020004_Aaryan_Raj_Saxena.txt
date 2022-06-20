@@ -1,0 +1,162 @@
+--------------------------------------------------------------------------------------------------------------------------------
+|         |                   |                        SECONDAY STRUCTURE                      |                               |
+|  S.NO.  |    Amino Acids    ------------------------------------------------------------------           Different?          |
+|         |                   |   Result obtained in Q1    |    STRIDE Web Server Prediction   |                               |
+|------------------------------------------------------------------------------------------------------------------------------|
+|    1.   |     S  (SER)      |                            |              Turn                 |               -               |              
+|    2.   |     G  (GLY)      |           Helix            |              Turn                 |               Yes*            |              
+|    3.   |     F  (PHE)      |           Helix            |              Turn                 |               Yes*            |              
+|    4.   |     R  (ARG)      |           Helix            |              Turn                 |               Yes*            |              
+|    5.   |     K  (LYS)      |           Helix            |              Coil                 |               Yes*            |              
+|    6.   |     M  (MET)      |           Helix            |              Coil                 |               Yes*            |              
+|    7.   |     A  (ALA)      |           Helix            |              Coil                 |               Yes*            |              
+|    8.   |     F  (PHE)      |           Helix            |              Coil                 |               Yes*            |              
+|    9.   |     P  (PRO)      |           Helix            |              Coil                 |               Yes*            |              
+|   10.   |     S  (SER)      |           Helix            |              AlphaHelix           |               No              |                    
+|   11.   |     G  (GLY)      |           Helix            |              AlphaHelix           |               No              |                    
+|   12.   |     K  (LYS)      |           Helix            |              AlphaHelix           |               No              |                    
+|   13.   |     V  (VAL)      |           Strand           |              AlphaHelix           |               Yes             |                    
+|   14.   |     E  (GLU)      |           Strand           |              AlphaHelix           |               Yes             |                    
+|   15.   |     G  (GLY)      |           Strand           |              AlphaHelix           |               Yes             |                    
+|   16.   |     C  (CYS)      |           Strand           |              Coil                 |               Yes*            |              
+|   17.   |     M  (MET)      |           Strand           |              Strand               |               No              |                
+|   18.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   19.   |     Q  (GLN)      |           Strand           |              Strand               |               No              |                
+|   20.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   21.   |     T  (THR)      |           Strand           |              Strand               |               No              |                
+|   22.   |     C  (CYS)      |           Strand           |              Strand               |               No              |                
+|   23.   |     G  (GLY)      |           Strand           |              Turn                 |               Yes*            |              
+|   24.   |     T  (THR)      |           Strand           |              Turn                 |               Yes*            |              
+|   25.   |     T  (THR)      |           Strand           |              Strand               |               No              |                
+|   26.   |     T  (THR)      |           Strand           |              Strand               |               No              |                
+|   27.   |     L  (LEU)      |           Helix            |              Strand               |               Yes             |                
+|   28.   |     N  (ASN)      |           Helix            |              Strand               |               Yes             |                
+|   29.   |     G  (GLY)      |           Helix            |              Strand               |               Yes             |                
+|   30.   |     L  (LEU)      |           Helix            |              Strand               |               Yes             |                
+|   31.   |     W  (TRP)      |           Helix            |              Strand               |               Yes             |                
+|   32.   |     L  (LEU)      |           Helix            |              Strand               |               Yes             |                
+|   33.   |     D  (ASP)      |           Helix            |              Turn                 |               Yes*            |              
+|   34.   |     D  (ASP)      |           Helix            |              Turn                 |               Yes*            |              
+|   35.   |     T  (THR)      |           Helix            |              Strand               |               Yes             |                
+|   36.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   37.   |     Y  (TYR)      |           Strand           |              Strand               |               No              |                
+|   38.   |     C  (CYS)      |           Strand           |              Strand               |               No              |                
+|   39.   |     P  (PRO)      |           Strand           |              Strand               |               No              |                
+|   40.   |     R  (ARG)      |           Helix            |              310Helix             |               Yes*            |             
+|   41.   |     H  (HIS)      |           Helix            |              310Helix             |               Yes*            |             
+|   42.   |     V  (VAL)      |           Helix            |              310Helix             |               Yes*            |             
+|   43.   |     I  (ILE)      |           Helix            |              310Helix             |               Yes*            |             
+|   44.   |     C  (CYS)      |           Helix            |              Coil                 |               Yes*            |              
+|   45.   |     T  (THR)      |           Helix            |              Coil                 |               Yes*            |              
+|   46.   |     A  (ALA)      |           Helix            |              AlphaHelix           |               No              |                    
+|   47.   |     E  (GLU)      |           Helix            |              AlphaHelix           |               No              |                    
+|   48.   |     D  (ASP)      |           Helix            |              AlphaHelix           |               No              |                    
+|   49.   |     M  (MET)      |           Helix            |              AlphaHelix           |               No              |                    
+|   50.   |     L  (LEU)      |           Helix            |              AlphaHelix           |               No              |                    
+|   51.   |     N  (ASN)      |           Helix            |              Coil                 |               Yes*            |              
+|   52.   |     P  (PRO)      |                            |              Coil                 |               -               |              
+|   53.   |     N  (ASN)      |                            |              Coil                 |               -               |              
+|   54.   |     Y  (TYR)      |           Helix            |              AlphaHelix           |               No              |                    
+|   55.   |     E  (GLU)      |           Helix            |              AlphaHelix           |               No              |                    
+|   56.   |     D  (ASP)      |           Helix            |              AlphaHelix           |               No              |                    
+|   57.   |     L  (LEU)      |           Helix            |              AlphaHelix           |               No              |                    
+|   58.   |     L  (LEU)      |           Helix            |              AlphaHelix           |               No              |                    
+|   59.   |     I  (ILE)      |           Helix            |              AlphaHelix           |               No              |                    
+|   60.   |     R  (ARG)      |           Helix            |              AlphaHelix           |               No              |                    
+|   61.   |     K  (LYS)      |           Helix            |              Coil                 |               Yes*            |              
+|   62.   |     S  (SER)      |           Helix            |              Coil                 |               Yes*            |              
+|   63.   |     N  (ASN)      |           Helix            |              310Helix             |               Yes*            |             
+|   64.   |     H  (HIS)      |           Strand           |              310Helix             |               Yes*            |             
+|   65.   |     S  (SER)      |           Strand           |              310Helix             |               Yes*            |             
+|   66.   |     F  (PHE)      |           Strand           |              Coil                 |               Yes*            |              
+|   67.   |     L  (LEU)      |           Strand           |              Strand               |               No              |                
+|   68.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   69.   |     Q  (GLN)      |           Strand           |              Strand               |               No              |                
+|   70.   |     A  (ALA)      |           Strand           |              Strand               |               No              |                
+|   71.   |     G  (GLY)      |           Strand           |              Turn                 |               Yes*            |              
+|   72.   |     N  (ASN)      |           Strand           |              Turn                 |               Yes*            |              
+|   73.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   74.   |     Q  (GLN)      |           Strand           |              Strand               |               No              |                
+|   75.   |     L  (LEU)      |           Strand           |              Strand               |               No              |                
+|   76.   |     R  (ARG)      |           Strand           |              Coil                 |               Yes*            |              
+|   77.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   78.   |     I  (ILE)      |           Strand           |              Strand               |               No              |                
+|   79.   |     G  (GLY)      |           Strand           |              Strand               |               No              |                
+|   80.   |     H  (HIS)      |           Strand           |              Strand               |               No              |                
+|   81.   |     S  (SER)      |           Strand           |              Strand               |               No              |                
+|   82.   |     M  (MET)      |           Strand           |              Strand               |               No              |                
+|   83.   |     Q  (GLN)      |           Strand           |              Strand               |               No              |                
+|   84.   |     N  (ASN)      |           Strand           |              Turn                 |               Yes*            |              
+|   85.   |     C  (CYS)      |           Strand           |              Turn                 |               Yes*            |              
+|   86.   |     L  (LEU)      |           Strand           |              Strand               |               No              |                
+|   87.   |     L  (LEU)      |           Strand           |              Strand               |               No              |                
+|   88.   |     R  (ARG)      |           Strand           |              Strand               |               No              |                
+|   89.   |     L  (LEU)      |           Strand           |              Strand               |               No              |                
+|   90.   |     K  (LYS)      |           Strand           |              Strand               |               No              |                
+|   91.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|   92.   |     D  (ASP)      |           Strand           |              Coil                 |               Yes*            |              
+|   93.   |     T  (THR)      |           Strand           |              Coil                 |               Yes*            |              
+|   94.   |     S  (SER)      |           Strand           |              Coil                 |               Yes*            |              
+|   95.   |     N  (ASN)      |                            |              Turn                 |               -               |              
+|   96.   |     P  (PRO)      |                            |              Turn                 |               -               |              
+|   97.   |     K  (LYS)      |                            |              Turn                 |               -               |              
+|   98.   |     T  (THR)      |                            |              Turn                 |               -               |              
+|   99.   |     P  (PRO)      |           Helix            |              Coil                 |               Yes*            |              
+|  100.   |     K  (LYS)      |           Strand           |              Coil                 |               Yes*            |              
+|  101.   |     Y  (TYR)      |           Strand           |              Coil                 |               Yes*            |              
+|  102.   |     K  (LYS)      |           Strand           |              Coil                 |               Yes*            |              
+|  103.   |     F  (PHE)      |           Strand           |              Coil                 |               Yes*            |              
+|  104.   |     V  (VAL)      |           Strand           |              Coil                 |               Yes*            |              
+|  105.   |     R  (ARG)      |           Strand           |              Coil                 |               Yes*            |              
+|  106.   |     I  (ILE)      |           Strand           |              Coil                 |               Yes*            |              
+|  107.   |     Q  (GLN)      |           Strand           |              Turn                 |               Yes*            |              
+|  108.   |     P  (PRO)      |           Strand           |              Turn                 |               Yes*            |              
+|  109.   |     G  (GLY)      |           Strand           |              Turn                 |               Yes*            |              
+|  110.   |     Q  (GLN)      |           Strand           |              Strand               |               No              |                
+|  111.   |     T  (THR)      |           Strand           |              Strand               |               No              |                
+|  112.   |     F  (PHE)      |           Strand           |              Strand               |               No              |                
+|  113.   |     S  (SER)      |           Strand           |              Strand               |               No              |                
+|  114.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|  115.   |     L  (LEU)      |           Strand           |              Strand               |               No              |                
+|  116.   |     A  (ALA)      |           Strand           |              Strand               |               No              |                
+|  117.   |     C  (CYS)      |           Strand           |              Strand               |               No              |                
+|  118.   |     Y  (TYR)      |           Strand           |              Strand               |               No              |                
+|  119.   |     N  (ASN)      |           Strand           |              Turn                 |               Yes*            |              
+|  120.   |     G  (GLY)      |           Strand           |              Turn                 |               Yes*            |              
+|  121.   |     S  (SER)      |                            |              Strand               |               -               |                
+|  122.   |     P  (PRO)      |                            |              Strand               |               -               |                
+|  123.   |     S  (SER)      |           Strand           |              Strand               |               No              |                
+|  124.   |     G  (GLY)      |           Strand           |              Strand               |               No              |                
+|  125.   |     V  (VAL)      |           Strand           |              Strand               |               No              |                
+|  126.   |     Y  (TYR)      |           Strand           |              Strand               |               No              |                
+|  127.   |     Q  (GLN)      |           Strand           |              Strand               |               No              |                
+|  128.   |     C  (CYS)      |           Strand           |              Strand               |               No              |                
+|  129.   |     A  (ALA)      |           Strand           |              Strand               |               No              |                
+|  130.   |     M  (MET)      |           Strand           |              Strand               |               No              |                
+|  131.   |     R  (ARG)      |           Strand           |              Turn                 |               Yes*            |              
+|  132.   |     P  (PRO)      |           Strand           |              Turn                 |               Yes*            |              
+|  133.   |     N  (ASN)      |                            |              Turn                 |               -               |              
+|  134.   |     H  (HIS)      |                            |              Turn                 |               -               |              
+|  135.   |     T  (THR)      |                            |              Coil                 |               -               |              
+|  136.   |     I  (ILE)      |           Helix            |              Bridge               |               Yes*            |                
+|  137.   |     K  (LYS)      |           Helix            |              Coil                 |               Yes*            |              
+|  138.   |     G  (GLY)      |           Helix            |              Coil                 |               Yes*            |              
+|  139.   |     S  (SER)      |           Helix            |              Coil                 |               Yes*            |              
+|  140.   |     F  (PHE)      |           Helix            |              Coil                 |               Yes*            |              
+|  141.   |     L  (LEU)      |           Helix            |              Turn                 |               Yes*            |              
+|  142.   |     N  (ASN)      |                            |              Turn                 |               -               |              
+|  143.   |     G  (GLY)      |                            |              Turn                 |               -               |              
+|  144.   |     S  (SER)      |                            |              Turn                 |               -               |              
+|  145.   |     C  (CYS)      |                            |              Turn                 |               -               |              
+|  146.   |     G  (GLY)      |                            |              Turn                 |               -               |              
+|  147.   |     S  (SER)      |                            |              Turn                 |               -               |              
+|  148.   |     V  (VAL)      |                            |              Strand               |               -               |                
+|  149.   |     G  (GLY)      |                            |              Strand               |               -               |                
+|  150.   |     F  (PHE)      |                            |              Coil                 |               -               |              
+--------------------------------------------------------------------------------------------------------------------------------
+
+For `Different` field:
+  -     =    The Q1 didn't predict any structure.
+  No    =    The two results match.
+  Yes   =    The two results mismatch on predicting whether the secondary structure is helix or strand.
+  Yes*  =    The two results do not match because the STRIDE Web Server predicts a structure other than helix and strand which cannot be predicted by the Q1.
