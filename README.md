@@ -12,5 +12,5 @@ Repository for Introduction to Quantitative Biology (Winter 2021 semester) assig
 
 ![ss2][ss2]
 
-[ss1]: readme-images/ss1.png
-[ss2]: readme-images/ss2.png
+[ss1]: readme-images/ss-1.png
+[ss2]: readme-images/ss-2.png
